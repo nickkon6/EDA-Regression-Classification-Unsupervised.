@@ -1,2 +1,0 @@
-# EDA-Regression-Classification-Unsupervised.
-Glassdoor Jobs Salary Analysis is aimed at analyzing salary trends for different job roles based on various factors such as job title, company rating, industry, and location. The project involves exploratory data analysis (EDA) to extract key insights about salary distributions and trends. By processing and visualizing the data, we aim to understand factors influencing salaries and provide valuable insights for job seekers and employers.
